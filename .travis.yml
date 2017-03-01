@@ -10,4 +10,4 @@ deploy:
   provider: s3
   access_key_id: "AKIAJPVTSDOZWPI3EKFA"
   secret_access_key: "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"
-  bucket: "S3 Bucket"
+  bucket: "a2-cps847"
